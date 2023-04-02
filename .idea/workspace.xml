@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7fb8941d-e29f-44c3-a01b-bf2a4fe22a3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LmsdYCEzTpPMwJOdsbvrdsi4Sy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lab_4" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lab_4" />
+      <recent name="$PROJECT_DIR$/lab_2_3" />
+      <recent name="$PROJECT_DIR$/lab-1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lab4_edge">
+    <configuration name="lab4_blur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_4/lab4_blur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab4_echo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_4/lab4_echo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab4_edge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Labs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lab_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab_4/lab4_edge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab4_edge" />
+        <item itemvalue="Python.lab4_blur" />
+        <item itemvalue="Python.lab4_echo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fb8941d-e29f-44c3-a01b-bf2a4fe22a3e" name="Default Changelist" comment="" />
+      <created>1676487679447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676487679447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1676492957833">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="436" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676492957833" />
+    <state width="1419" height="178" key="GridCell.Tab.0.bottom" timestamp="1680092778901">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state width="1419" height="178" key="GridCell.Tab.0.bottom/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1680092778901" />
+    <state width="1419" height="178" key="GridCell.Tab.0.center" timestamp="1680092778900">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state width="1419" height="178" key="GridCell.Tab.0.center/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1680092778900" />
+    <state width="1419" height="178" key="GridCell.Tab.0.left" timestamp="1680092778900">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state width="1419" height="178" key="GridCell.Tab.0.left/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1680092778900" />
+    <state width="1419" height="178" key="GridCell.Tab.0.right" timestamp="1680092778901">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state width="1419" height="178" key="GridCell.Tab.0.right/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1680092778901" />
+    <state x="229" y="58" key="SettingsEditor" timestamp="1676492792536">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="229" y="58" key="SettingsEditor/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676492792536" />
+    <state x="100" y="125" width="1240" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1676489380931">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="100" y="125" width="1240" height="595" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676489380931" />
+    <state x="504" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1676489307764">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="504" y="338" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1676489307764" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1680092675282">
+      <screen x="0" y="25" width="1440" height="795" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.25.1440.795/-555.-1055.2560.1055@0.25.1440.795" timestamp="1680092675282" />
+  </component>
+</project>
